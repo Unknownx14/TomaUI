@@ -1,0 +1,25 @@
+[
+{
+	"userEmailHM" : "jovan.kovacevic@hotmail.com",
+	"userPasswordHM" : "glupavipassword",
+	"userNameHM" : "JovanK",
+	"articleTitle" : "Title01",
+	"articleAbout" : "About01",
+	"articleText" : "Text01",
+	"articleTag" : "Tag01"
+	
+
+},
+{
+	"userEmailHM" : "testuser@iptiq.com",
+	"userPasswordHM" : "test1234",
+	"userNameHM" : "testuser@iptiq.com",
+	"articleTitle" : "Title02",
+	"articleAbout" : "About02",
+	"articleText" : "Text02",
+	"articleTag" : "Tag02"
+
+}
+
+
+]
